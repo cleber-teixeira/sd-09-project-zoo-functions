@@ -3,3 +3,11 @@
 # VSCode repo settings
 .vscode
 node_modules/
+
+README2.md
+test
+.trybe
+.codeclimate.yml
+.editorconfig
+.eslintrc
+.stylelintrc.json
