@@ -29,7 +29,7 @@
  - Manipular arrays com funções como **map**, **filter** e **reduce**.
 
 <p style="text-align: justify">
- Colocar em prática todo aprendizado adquirido, implementando um conjunto de funções para recuperar informações de um zoológico. Além de poder exercitar, em conjunto, todas as novas habilidades adquiridas durante o bloco com situações semelhantes a problemas mais complexos que se encontra no dia a dia de desenvolvimento.
+ Colocar em prática todo aprendizado adquirido, implementando um conjunto de funções para recuperar informações de um zoológico e poder exercitar, em conjunto, todas as novas habilidades adquiridas durante o bloco com situações semelhantes a problemas mais complexos que se encontra no dia a dia de desenvolvimento.
 </p>
 
 ---
