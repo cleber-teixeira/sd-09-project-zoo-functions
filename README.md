@@ -1,4 +1,4 @@
-# Zoo Functions Project :elephant:
+# Zoo Functions Project :lion: :elephant:
 
 > ### Projeto da Trybe <img align="center" alt="Js" height="30" width="30" src="https://scontent.fcgh24-1.fna.fbcdn.net/v/t1.6435-9/129351852_2818690001753270_85015407846271114_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tfLU1xaTn3sAX-Ruhdi&_nc_ht=scontent.fcgh24-1.fna&oh=00_AT_ONAacPaQaVgYEDwZ6uN-6BJVveyEybKBI6q9NMKXB2Q&oe=6253555C">
 > - Formação: **Desenvolvimento Web Full Stack**
@@ -49,6 +49,25 @@ Front-end:
 ### Executando o Projeto :rocket:
 
 > src / zoo.js
+
+---
+### Requisitos :page_with_curl:
+
+
+
+- [x] 1. Implemente a função `animalsByIds`
+- [x] 2. Implemente a função `animalsOlderThan`
+- [x] 3. Implemente a função `employeeByName`
+- [x] 4. Implemente a função `createEmployee`
+- [x] 5. Implemente a função `isManager`
+- [x] 6. Implemente a função `addEmployee`
+- [x] 7. Implemente a função `animalCount`
+- [x] 8. Implemente a função `entryCalculator`
+- [x] 9. Implemente a função `animalMap`
+- [x] 10. Implemente a função `schedule`
+- [x] 11. Implemente a função `oldestFromFirstSpecies`
+- [x] 12. Implemente a função `increasePrices`
+- [x] 13. Implemente a função `employeeCoverage`
 
 ---
 ### Contatos :email:
